@@ -1,0 +1,14 @@
+F:\das\L82\L82\bin\Debug\L82.exe.config
+F:\das\L82\L82\bin\Debug\L82.exe
+F:\das\L82\L82\bin\Debug\L82.pdb
+F:\das\L82\L82\obj\Debug\L82.csprojAssemblyReference.cache
+F:\das\L82\L82\obj\Debug\L82.Form1.resources
+F:\das\L82\L82\obj\Debug\L82.Form2.resources
+F:\das\L82\L82\obj\Debug\L82.Properties.Resources.resources
+F:\das\L82\L82\obj\Debug\L82.csproj.GenerateResource.cache
+F:\das\L82\L82\obj\Debug\L82.csproj.CoreCompileInputs.cache
+F:\das\L82\L82\obj\Debug\L82.exe
+F:\das\L82\L82\obj\Debug\L82.pdb
+F:\das\L82\L82\obj\Debug\L82.Form3.resources
+F:\das\L82\L82\obj\Debug\L82.Form4.resources
+F:\das\L82\L82\obj\Debug\L82.Form5.resources
